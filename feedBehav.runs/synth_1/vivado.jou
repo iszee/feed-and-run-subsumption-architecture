@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2.2 (64-bit)
+# SW Build 2348494 on Mon Oct  1 18:25:44 MDT 2018
+# IP Build 2318053 on Mon Oct  1 21:44:26 MDT 2018
+# Start of session at: Mon Dec 10 01:01:00 2018
+# Process ID: 15228
+# Current directory: D:/fpga/xilinix18/projects/feedBehav/feedBehav.runs/synth_1
+# Command line: vivado.exe -log feedBehav.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source feedBehav.tcl
+# Log file: D:/fpga/xilinix18/projects/feedBehav/feedBehav.runs/synth_1/feedBehav.vds
+# Journal file: D:/fpga/xilinix18/projects/feedBehav/feedBehav.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source feedBehav.tcl -notrace
